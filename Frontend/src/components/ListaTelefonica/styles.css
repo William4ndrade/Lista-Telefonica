@@ -1,0 +1,57 @@
+main{
+    /* Medidas */
+    width: 40%;
+    height: 80%;
+
+    /* Estilização */
+
+    background-color: rgb(31, 31, 31);
+    border-radius: 10px;
+    border: 1px solid black;
+    color: white;
+
+
+    /* scroll */
+
+    overflow-y: auto;
+   
+
+}
+
+
+/* Personalizando scrool bar */
+
+main::-webkit-scrollbar{
+    width: 5px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+}
+
+
+
+main::-webkit-scrollbar-thumb{
+  background-color: rgb(53, 53, 53);
+  border-radius: 20px;
+
+
+}
+
+
+/*  */
+
+@media (max-width: 920px){
+
+
+
+    main{
+
+        width: 100%;
+        height: 100%;
+        border-radius: 0;
+    
+    }
+
+
+
+
+}
