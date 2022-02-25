@@ -15,6 +15,7 @@
 
 ## Como rodar? 
 
+- Se estiver usando linux, você pode executar o `exec.sh` para ele instalar todas as dependencias e executar automaticamente. Ps: Lembre de configurar o banco de dados no `.env` presente na pasta backend.
 
 - Frontend:
      - Instale todas as dependências atráves do comando `npm install` dentro da raiz do projeto.
