@@ -28,6 +28,4 @@
     - Execute o projeto com o comando `npm start.`
 
 
-# Informações adicionais 
 
-## Github: https://github.com/William4ndrade
