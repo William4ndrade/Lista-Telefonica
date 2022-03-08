@@ -1,7 +1,7 @@
 
 # Projeto lista telefonica
 
-## Tecnoligas Usadas:
+## Tecnologias Usadas:
 
 * Typescript
 * Express
